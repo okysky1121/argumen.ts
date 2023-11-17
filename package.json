@@ -14,5 +14,8 @@
     "url": "https://github.com/okysky1121/argumen.ts/issues"
   },
   "keywords": [],
-  "description": "next generation cli parser"
+  "description": "next generation cli parser",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
 }
